@@ -2,6 +2,8 @@
 
 完全程序化生成的 iPhone Duo 三维拆解可视化页面。仅使用 Three.js（CDN 引入）、HTML、CSS 与原生 JavaScript——**所有 3D 模型、纹理、标注均由代码实时生成，不依赖任何外部 3D 模型或图片资源**。
 
+在线访问：<https://494739635.github.io/iphone-duo/>
+
 ## 运行
 
 页面需要通过本地 HTTP 服务运行（`file://` 下 ES Module 与摄像头会被浏览器禁用）：
